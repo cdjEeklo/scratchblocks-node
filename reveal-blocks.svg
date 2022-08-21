@@ -178,18 +178,18 @@
 <animate attributeName="d"
 values="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 185 0 a 4 4 0 0 1 4 4 L 189 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z;
 M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 466 0 a 4 4 0 0 1 4 4 L 470 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"
-begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+begin="4" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze" />
 </path>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">richt</text>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(43 17)">naar</text>
 <g transform="translate(83 8)">
 <rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-motion sb3-input sb3-input-number">
-<animate attributeType="CSS" attributeName="width" from="40" to="321" begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+<animate attributeType="CSS" attributeName="width" from="40" to="321" begin="4" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze" />
 </rect>
 <!-- <text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(20 9)"/> -->
 </g>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(131 17)">graden
-<animate attributeName="x" values="0;281" begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+<animate attributeName="x" values="0;281" begin="4" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze" />
 </text>
 <!-- <animate attributeType="CSS" attributeName="visibility" from="hidden" to="visible" values="hidden;visible" keyTimes="0; 1" dur="3s" repeatCount="0" fill="freeze"/> -->
 <animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="3" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
@@ -197,7 +197,7 @@ begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
 </g>
 
 <!-- 4 -->
-<g style="opacity:0;" transform="translate(85 240)">
+<g style="opacity:0;" transform="translate(120 240)">
 <rect class="sb3-operators" rx="20" ry="20" x="0" y="0" width="321" height="40"/>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(12 13)">willekeurig</text>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(91 13)">getal</text>
@@ -212,7 +212,7 @@ begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
 <text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">255</text>
 </g>
 <animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="5" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="85 240" to="85 167" begin="5.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="120 240" to="85 167" begin="5.5" dur="0.2s" repeatCount="0" fill="freeze"/>
 </g>
 </g>
 
@@ -224,7 +224,7 @@ values="
 M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 48 a 4 4 0 0 0 4 4  L 28 52  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 52  a 4 4 0 0 1 4 4 L 160 80  a 4 4 0 0 1 -4 4 L 4 84  a 4 4 0 0 1 -4 -4 Z;
 M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 92 a 4 4 0 0 0 4 4  L 28 96  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 96  a 4 4 0 0 1 4 4 L 160 124 a 4 4 0 0 1 -4 4 L 4 128 a 4 4 0 0 1 -4 -4 Z;
 M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 92 a 4 4 0 0 0 4 4  L 28 96  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 96  a 4 4 0 0 1 4 4 L 160 124 a 4 4 0 0 1 -4 4 L 4 128 a 4 4 0 0 1 -4 -4 Z;
-M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 140 a 4 4 0 0 0 4 4 L 28 144 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 144 a 4 4 0 0 1 4 4 L 160 172 a 4 4 0 0 1 -4 4 L 4 172 a 4 4 0 0 1 -4 -4 Z
+M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 140 a 4 4 0 0 0 4 4 L 28 144 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 144 a 4 4 0 0 1 4 4 L 160 172 a 4 4 0 0 1 -4 4 L 4 176 a 4 4 0 0 1 -4 -4 Z
 "
 begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
 </path>
@@ -235,7 +235,7 @@ begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
 </use>
 </g>
 
-<g style="opacity:0;" transform="translate(96 47)">
+<g style="opacity:0;" transform="translate(200 55)">
 <g transform="translate(0 1)">
 <path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 165 0 a 4 4 0 0 1 4 4 L 169 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">neem
@@ -249,10 +249,10 @@ begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
 </text>
 </g>
 <animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="8" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="96 47" to="16 47" begin="8.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="200 55" to="16 47" begin="8.5" dur="0.2s" repeatCount="0" fill="freeze"/>
 </g>
 
-<g style="opacity:0;" transform="translate(96 96)">
+<g style="opacity:0;" transform="translate(200 105)">
 <path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 162 0 a 4 4 0 0 1 4 4 L 166 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">keer
 </text>
@@ -265,7 +265,7 @@ begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(126 17)">rand
 </text>
 <animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="10" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
-<animateTransform attributeName="transform" type="translate" from="96 96" to="16 96" begin="10.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="200 105" to="16 96" begin="10.5" dur="0.2s" repeatCount="0" fill="freeze"/>
 </g>
 
 <animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="6" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
