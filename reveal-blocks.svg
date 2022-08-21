@@ -1,5 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100vw" height="100vw" viewBox="0 0 500 500" class="scratch3">
 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="320" height="240" viewBox="0 0 320 240" class="scratch3">
 <defs>
 <g id="sb3-greenFlag">
 <path d="M20.8 3.7c-.4-.2-.9-.1-1.2.2-2 1.6-4.8 1.6-6.8 0-2.3-1.9-5.6-2.3-8.3-1v-.4c0-.6-.5-1-1-1s-1 .4-1 1v18.8c0 .5.5 1 1 1h.1c.5 0 1-.5 1-1v-6.4c1-.7 2.1-1.2 3.4-1.3 1.2 0 2.4.4 3.4 1.2 2.9 2.3 7 2.3 9.8 0 .3-.2.4-.5.4-.9V4.7c0-.5-.3-.9-.8-1zm-.3 10.2C18 16 14.4 16 11.9 14c-1.1-.9-2.5-1.4-4-1.4-1.2.1-2.3.5-3.4 1.1V4c2.5-1.4 5.5-1.1 7.7.6 2.4 1.9 5.7 1.9 8.1 0h.2l.1.1-.1 9.2z" fill="#45993d"/>
@@ -123,108 +123,153 @@
 <image id="sb3-gdxforBlock" width="40px" height="40px" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAMAAAC5zwKfAAABAlBMVEUAAAABAQEAAAB9h6YAAAAAAAAAAAB8iKZ7iKaAjKvm5+h+iqhcXFxGR0d8iKbj5OV9iKZ8h6be3+Db3d19h6acnJ0AAAB7nrDh4uPh4uN9iabZ2tt9iKbX19nJycnExsZ8iKe+wMC7vL2Eka/g4ePU1dV8iKZ9iKZ9iKd+iKitra2RkZGLjo5wcHCLi7l0oqJV//9csdZ8h6WFkq//vwDm5+iEka79vgJ6iql9iaaHk6tgq9Btm71+iadmo8dzk7OCj6yAjKp/iqhiqc1qnsB4jKtgrNFwl7d1tLTgtCxpocN0krJ2j65ossWNtZSbt4LAulHWsDnasTTuvhXzvg9zk7TzqAfaAAAAMXRSTlMAJiLoFBwI8q4a+0c4M/nr3tnQwKxYDAnk2726tbGMh4J9dinXq56ddG9nT01ACwsDk/+seAAAAidJREFUWMPt2Olu2kAUhuE5NvuaBAhZm7TpvufgMXaBbmAghOzp/d9KD7RW6yaqPeL7YVV9/471aBgfCXnUH7ULNhtkF96qv1dgwwoxoM08cDsJcwfMdgwonoiJPRFjQXkscQM3Adhxk4NuJwkoDx0nSp5NDTiae958NEaBwzkvC4YYcOxx7fCoeJhnrwcBv7H9TklFm08R4JD5SEkiMg8B4IjXwsV1HgHAPu+EizsQcMbr2B0OufZz7X0NcIZSwC9+rD3nADI2/fCtrHEfAvZ8Liqp6PuIwZZO+ZmSnspcY8AZ55WU5xkElDwuK1Vm7xgFTjhfLud5AgPHAUvBGARKvYnnTXpp/gvAg9PLyykSPLt1nNszIHjuSOdAcNp1nO4UeYYXNzcX0UH62P+0AnjH8lgCgL8s/+uXzwZgrOV2JAMwxpIMwRjLHIyxzMEYyxyMWgAwYiHAzm99iLQ6eOJEul4d7Ea6WhG8W7rAE+fertHgVXp+clpB9Oet64M/wH2TKwI/FrRFTH6JIZ6NvmZpxoDtptlFULOtzGPWy+4/r//gvwKGgcC90NtTqIg2dIuyClaWDvTjKlDMLba4UaUMcIuVbd0gyiGwjGVlFuKWfkQZhEfSQnypd8mCvOHGvkA5quo6EQSs6yrlNumN3obs0KKGHJ70QD+hLOQMW7r0sFI5KJVeY+bGkr1JopKlEG0StXbrW/uvQGMookXLLPFAZYTMJju/7z6rRW1MZcnIAAAAAElFTkSuQmCC"/>
 <image id="sb3-boostBlock" width="40px" height="40px" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQBAMAAAB8P++eAAAAKlBMVEUAAAD///98h6Xm5+iVnrb/Zhq+w9L5hk73+Pnf4eSQmbLr7Ozo39vp184hSCf6AAAAAXRSTlMAQObYZgAAAOFJREFUSMftlDEOgjAUhonhAi1sLvIk7NDJDTYu0LhzBzcXruHoDTyFB/BCNi30KU3InzioSb++hAS+vPfKa5pEIpHvk7a8gpf8ISWINtlg4i7ZFOKVTBlqsUR+ItYZJG7VzQQgMqGYd7zWRArpULEAe5Q/J9JMj4rluC7uleNw7TFRXcoREDnlinjX57eUsvRTn8+AE0/6OKV0g5buYTTyWFFr/XAp3aDzed4yFJWnKbhPbtaXXohDNYlDJWz4zSxEokkkEjb496AiVtqAbIYgYNGWBmhgES+NX6SRSORfeAJMWajr95DdqQAAAABJRU5ErkJggg=="/>
 <style>
-<![CDATA[.sb3-label {  font: 500 12pt Helevetica Neue, Helvetica, sans-serif;  fill: #fff;  word-spacing: +1pt;}.sb3-motion {  fill: #4c97ff;  stroke: #3373cc;}.sb3-motion-alt {  fill: #4280d7;}.sb3-motion-dark {  fill: #4c97ff;}.sb3-looks {  fill: #9966ff;  stroke: #774dcb;}.sb3-looks-alt {  fill: #855cd6;}.sb3-looks-dark {  fill: #bd42bd;}.sb3-sound {  fill: #cf63cf;  stroke: #bd42bd;}.sb3-sound-alt {  fill: #c94fc9;}.sb3-sound-dark {  fill: #bd42bd;}.sb3-control {  fill: #ffab19;  stroke: #cf8b17;}.sb3-control-alt {  fill: #ec9c13;}.sb3-control-dark {  fill: #cf8b17;}.sb3-events {  fill: #ffbf00;  stroke: #cc9900;}.sb3-events-alt {  fill: #e6ac00;}.sb3-events-dark {  fill: #cc9900;}.sb3-sensing {  fill: #5cb1d6;  stroke: #2e8eb8;}.sb3-sensing-alt {  fill: #47a8d1;}.sb3-sensing-dark {  fill: #2e8eb8;}.sb3-operators {  fill: #59c059;  stroke: #389438;}.sb3-operators-alt {  fill: #46b946;}.sb3-operators-dark {  fill: #389438;}.sb3-variables {  fill: #ff8c1a;  stroke: #db6e00;}.sb3-variables-alt {  fill: #ff8000;}.sb3-variables-dark {  fill: #db6e00;}.sb3-list {  fill: #ff661a;  stroke: #e64d00;}.sb3-list-alt {  fill: #ff5500;}.sb3-list-dark {  fill: #e64d00;}.sb3-custom {  fill: #ff6680;  stroke: #ff3355;}.sb3-custom-alt {  fill: #ff4d6a;}.sb3-custom-dark {  fill: #ff3355;}.sb3-custom-arg {  fill: #ff6680;  stroke: #ff3355;}/* extension blocks, e.g. pen */.sb3-extension {  fill: #0fbd8c;  stroke: #0b8e69;}.sb3-extension-alt {  fill: #0da57a;}.sb3-extension-line {  stroke: #0da57a;}.sb3-extension-dark {  fill: #0b8e69;}/* obsolete colors: chosen by hand, indicates invalid blocks */.sb3-obsolete {  fill: #ed4242;  stroke: #ca2b2b;}.sb3-obsolete-alt {  fill: #db3333;}.sb3-obsolete-dark {  fill: #ca2b2b;}/* grey: special color from the Scratch 3.0 design mockups */.sb3-grey {  fill: #bfbfbf;  stroke: #909090;}.sb3-grey-alt {  fill: #b2b2b2;}.sb3-grey-dark {  fill: #909090;}.sb3-input-color {  stroke: #fff;}.sb3-input-number,.sb3-input-string {  fill: #fff;}.sb3-literal-number,.sb3-literal-string,.sb3-literal-number-dropdown,.sb3-literal-dropdown {  word-spacing: 0;}.sb3-literal-number,.sb3-literal-string {  fill: #575e75;}.sb3-comment {  fill: #ffffa5;  stroke: #d0d1d2;  stroke-width: 1;}.sb3-comment-line {  fill: #ffff80;}.sb3-comment-label {  font: 400 12pt Helevetica Neue, Helvetica, sans-serif;  fill: #000;  word-spacing: 0;}.sb3-diff {  fill: none;  stroke: #000;}.sb3-diff-ins {  stroke-width: 2px;}.sb3-diff-del {  stroke-width: 3px;}]]>
+<![CDATA[.sb3-label {  font: 500 11pt Helevetica Neue, Helvetica, sans-serif;  fill: #fff;  word-spacing: +1pt;}.sb3-motion {  fill: #4c97ff;  stroke: #3373cc;}.sb3-motion-alt {  fill: #4280d7;}.sb3-motion-dark {  fill: #4c97ff;}.sb3-looks {  fill: #9966ff;  stroke: #774dcb;}.sb3-looks-alt {  fill: #855cd6;}.sb3-looks-dark {  fill: #bd42bd;}.sb3-sound {  fill: #cf63cf;  stroke: #bd42bd;}.sb3-sound-alt {  fill: #c94fc9;}.sb3-sound-dark {  fill: #bd42bd;}.sb3-control {  fill: #ffab19;  stroke: #cf8b17;}.sb3-control-alt {  fill: #ec9c13;}.sb3-control-dark {  fill: #cf8b17;}.sb3-events {  fill: #ffbf00;  stroke: #cc9900;}.sb3-events-alt {  fill: #e6ac00;}.sb3-events-dark {  fill: #cc9900;}.sb3-sensing {  fill: #5cb1d6;  stroke: #2e8eb8;}.sb3-sensing-alt {  fill: #47a8d1;}.sb3-sensing-dark {  fill: #2e8eb8;}.sb3-operators {  fill: #59c059;  stroke: #389438;}.sb3-operators-alt {  fill: #46b946;}.sb3-operators-dark {  fill: #389438;}.sb3-variables {  fill: #ff8c1a;  stroke: #db6e00;}.sb3-variables-alt {  fill: #ff8000;}.sb3-variables-dark {  fill: #db6e00;}.sb3-list {  fill: #ff661a;  stroke: #e64d00;}.sb3-list-alt {  fill: #ff5500;}.sb3-list-dark {  fill: #e64d00;}.sb3-custom {  fill: #ff6680;  stroke: #ff3355;}.sb3-custom-alt {  fill: #ff4d6a;}.sb3-custom-dark {  fill: #ff3355;}.sb3-custom-arg {  fill: #ff6680;  stroke: #ff3355;}/* extension blocks, e.g. pen */.sb3-extension {  fill: #0fbd8c;  stroke: #0b8e69;}.sb3-extension-alt {  fill: #0da57a;}.sb3-extension-line {  stroke: #0da57a;}.sb3-extension-dark {  fill: #0b8e69;}/* obsolete colors: chosen by hand, indicates invalid blocks */.sb3-obsolete {  fill: #ed4242;  stroke: #ca2b2b;}.sb3-obsolete-alt {  fill: #db3333;}.sb3-obsolete-dark {  fill: #ca2b2b;}/* grey: special color from the Scratch 3.0 design mockups */.sb3-grey {  fill: #bfbfbf;  stroke: #909090;}.sb3-grey-alt {  fill: #b2b2b2;}.sb3-grey-dark {  fill: #909090;}.sb3-input-color {  stroke: #fff;}.sb3-input-number,.sb3-input-string {  fill: #fff;}.sb3-literal-number,.sb3-literal-string,.sb3-literal-number-dropdown,.sb3-literal-dropdown {  word-spacing: 0;}.sb3-literal-number,.sb3-literal-string {  fill: #575e75;}.sb3-comment {  fill: #ffffa5;  stroke: #d0d1d2;  stroke-width: 1;}.sb3-comment-line {  fill: #ffff80;}.sb3-comment-label {  font: 400 12pt Helevetica Neue, Helvetica, sans-serif;  fill: #000;  word-spacing: 0;}.sb3-diff {  fill: none;  stroke: #000;}.sb3-diff-ins {  stroke-width: 2px;}.sb3-diff-del {  stroke-width: 3px;}]]>
 </style>
 </defs>
-<g style="transform: scale(0.675)">
+
+<!-- <g style="transform: scale(0.675)"> -->
+<g>
 <g transform="translate(0 0)">
 <g transform="translate(2 1)">
 <path class="sb3-events" d="M 0 16 c 25,-22 71,-22 96,0 L 222 16 a 4 4 0 0 1 4 4 L 226 60 a 4 4 0 0 1 -4 4 L 48 64 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 64 a 4 4 0 0 1 -4 -4 Z"/>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 33)">wanneer
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(74 33)">op
-</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 33)">wanneer</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(74 33)">op</text>
 <use href="#sb3-greenFlag" transform="translate(100 27)"/>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(128 33)">wordt
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(172 33)">geklikt
-</text>
-</g>
-<g transform="translate(2 65)">
-<path class="sb3-looks" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 176 0 a 4 4 0 0 1 4 4 L 180 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">maak
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(52 17)">grootte
-</text>
-<g transform="translate(110 8)">
-<rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-looks sb3-input sb3-input-number"/>
-<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">50
-</text>
-</g>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(158 17)">%
-</text>
-</g>
-<g transform="translate(2 113)">
-<path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 214 0 a 4 4 0 0 1 4 4 L 218 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">ga
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(31 17)">naar
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(68 17)">x:
-</text>
-<g transform="translate(88 8)">
-<rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-motion sb3-input sb3-input-number"/>
-<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(15.5 9)">0
-</text>
-</g>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(136 17)">y:
-</text>
-<g transform="translate(156 8)">
-<rect rx="16" ry="16" x="0" y="0" width="54" height="32" class="sb3-motion sb3-input sb3-input-number"/>
-<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">-120
-</text>
-</g>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(128 33)">wordt</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(172 33)">geklikt</text>
 </g>
 
-<g transform="translate(2 200)">
+<!-- 1 -->
+<g style="opacity:0;" transform="translate(2 145)">
+<path class="sb3-looks" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 176 0 a 4 4 0 0 1 4 4 L 180 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">maak</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(52 17)">grootte</text>
+<g transform="translate(110 8)">
+<rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-looks sb3-input sb3-input-number"/>
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">50</text>
+</g>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(158 17)">%</text>
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="1" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="2 145" to="2 65" begin="1.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+</g>
+
+<!-- 2 -->
+<g style="opacity:0;" transform="translate(2 180)">
+<path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 214 0 a 4 4 0 0 1 4 4 L 218 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">ga</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(31 17)">naar</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(68 17)">x:</text>
+<g transform="translate(88 8)">
+<rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-motion sb3-input sb3-input-number"/>
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(15.5 9)">0</text>
+</g>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(136 17)">y:</text>
+<g transform="translate(156 8)">
+<rect rx="16" ry="16" x="0" y="0" width="54" height="32" class="sb3-motion sb3-input sb3-input-number"/>
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">-120</text>
+</g>
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="2" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="2 180" to="2 113" begin="2.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+</g>
+
+<!-- 3 -->
+<g style="opacity:0;" transform="translate(2 200)">
 <path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 185 0 a 4 4 0 0 1 4 4 L 189 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z">
 <animate attributeName="d"
 values="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 185 0 a 4 4 0 0 1 4 4 L 189 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z;
 M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 466 0 a 4 4 0 0 1 4 4 L 470 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"
-begin="2" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
 </path>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">richt
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(43 17)">naar
-</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">richt</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(43 17)">naar</text>
 <g transform="translate(83 8)">
 <rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-motion sb3-input sb3-input-number">
-<animate attributeName="width"
-values="40;321"
-begin="2" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+<animate attributeType="CSS" attributeName="width" from="40" to="321" begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
 </rect>
 <!-- <text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(20 9)"/> -->
 </g>
 <text class="sb3-label sb3-" x="0" y="13" transform="translate(131 17)">graden
-<animate attributeName="x"
-values="0;281"
-begin="2" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
+<animate attributeName="x" values="0;281" begin="4" keyTimes="0; 1" dur="1s" repeatCount="0" fill="freeze" />
 </text>
-<animateTransform attributeName="transform" type="translate" from="2 200" to="2 161" begin="1s" dur="0.2s" repeatCount="0" fill="freeze"/>
+<!-- <animate attributeType="CSS" attributeName="visibility" from="hidden" to="visible" values="hidden;visible" keyTimes="0; 1" dur="3s" repeatCount="0" fill="freeze"/> -->
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="3" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="2 200" to="2 161" begin="3.5" dur="0.2s" repeatCount="0" fill="freeze"/>
 </g>
 
-<g transform="translate(85 240)">
+<!-- 4 -->
+<g style="opacity:0;" transform="translate(85 240)">
 <rect class="sb3-operators" rx="20" ry="20" x="0" y="0" width="321" height="40"/>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(12 13)">willekeurig
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(91 13)">getal
-</text>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(130 13)">tussen
-</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(12 13)">willekeurig</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(91 13)">getal</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(130 13)">tussen</text>
 <g transform="translate(185 4)">
 <rect rx="16" ry="16" x="0" y="0" width="49" height="32" class="sb3-operators sb3-input sb3-input-number"/>
-<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">135
-</text>
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">135</text>
 </g>
-<text class="sb3-label sb3-" x="0" y="13" transform="translate(242 13)">en
-</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(242 13)">en</text>
 <g transform="translate(268 4)">
 <rect rx="16" ry="16" x="0" y="0" width="49" height="32" class="sb3-operators sb3-input sb3-input-number"/>
-<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">255
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">255</text>
+</g>
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="5" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="85 240" to="85 167" begin="5.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+</g>
+</g>
+
+<!-- 6 -->
+<g style="opacity:0;" transform="translate(2 289)">
+<path class="sb3-control" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 48 a 4 4 0 0 0 4 4  L 28 52  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 52  a 4 4 0 0 1 4 4 L 160 80  a 4 4 0 0 1 -4 4 L 4 84  a 4 4 0 0 1 -4 -4 Z">
+<animate attributeName="d"
+values="
+M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 48 a 4 4 0 0 0 4 4  L 28 52  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 52  a 4 4 0 0 1 4 4 L 160 80  a 4 4 0 0 1 -4 4 L 4 84  a 4 4 0 0 1 -4 -4 Z;
+M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 92 a 4 4 0 0 0 4 4  L 28 96  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 96  a 4 4 0 0 1 4 4 L 160 124 a 4 4 0 0 1 -4 4 L 4 128 a 4 4 0 0 1 -4 -4 Z;
+M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 92 a 4 4 0 0 0 4 4  L 28 96  c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 96  a 4 4 0 0 1 4 4 L 160 124 a 4 4 0 0 1 -4 4 L 4 128 a 4 4 0 0 1 -4 -4 Z;
+M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 0 a 4 4 0 0 1 4 4 L 160 44 a 4 4 0 0 1 -4 4 L 64 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 20 48 a 4 4 0 0 0 -4 4 L 16 140 a 4 4 0 0 0 4 4 L 28 144 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 156 144 a 4 4 0 0 1 4 4 L 160 172 a 4 4 0 0 1 -4 4 L 4 172 a 4 4 0 0 1 -4 -4 Z
+"
+begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
+</path>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">herhaal</text>
+<g transform="translate(128 56)">
+<use href="#sb3-loopArrow" y="0">
+<animate attributeName="y" values="0;44;44;88" begin="7" keyTimes="0; 0.25; 0.75; 1" dur="3s" repeatCount="0" fill="freeze" />
+</use>
+</g>
+
+<g style="opacity:0;" transform="translate(96 47)">
+<g transform="translate(0 1)">
+<path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 165 0 a 4 4 0 0 1 4 4 L 169 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">neem
+</text>
+<g transform="translate(56 8)">
+<rect rx="16" ry="16" x="0" y="0" width="40" height="32" class="sb3-motion sb3-input sb3-input-number"/>
+<text class="sb3-label sb3-literal-number" x="0" y="13" transform="translate(11 9)">10
 </text>
 </g>
-<animateTransform attributeName="transform" type="translate" from="85 240" to="85 167" begin="4s" dur="0.2s" repeatCount="0" fill="freeze"/>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(104 17)">stappen
+</text>
 </g>
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="8" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="96 47" to="16 47" begin="8.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+</g>
+
+<g style="opacity:0;" transform="translate(96 96)">
+<path class="sb3-motion" d="M 0 4 A 4 4 0 0 1 4 0 H 12 c 2 0 3 1 4 2 l 4 4 c 1 1 2 2 4 2 h 12 c 2 0 3 -1 4 -2 l 4 -4 c 1 -1 2 -2 4 -2 L 162 0 a 4 4 0 0 1 4 4 L 166 44 a 4 4 0 0 1 -4 4 L 48 48 c -2 0 -3 1 -4 2 l -4 4 c -1 1 -2 2 -4 2 h -12 c -2 0 -3 -1 -4 -2 l -4 -4 c -1 -1 -2 -2 -4 -2 L 4 48 a 4 4 0 0 1 -4 -4 Z"/>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(8 17)">keer
+</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(44 17)">om
+</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(71 17)">aan
+</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(103 17)">de
+</text>
+<text class="sb3-label sb3-" x="0" y="13" transform="translate(126 17)">rand
+</text>
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="10" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="96 96" to="16 96" begin="10.5" dur="0.2s" repeatCount="0" fill="freeze"/>
+</g>
+
+<animate attributeType="CSS" attributeName="opacity" from="0" to="1" begin="6" values="0;1" keyTimes="0; 1" dur="0.5s" repeatCount="0" fill="freeze"/>
+<animateTransform attributeName="transform" type="translate" from="2 289" to="2 209" begin="6.5" dur="0.2s" repeatCount="0" fill="freeze"/>
 </g>
 </g>
 </svg>
