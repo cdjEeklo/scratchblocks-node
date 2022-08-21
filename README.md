@@ -11,6 +11,6 @@ Improved features would be to:
 * animate the addition or removal of blocks with css (hard)
 * could it not be a plugin for prism.js? (ridiculous)
 
-<img src="/cdjEeklo/scratchblocks-node/raw/main/reveal-blocks.svg" alt="Revealing Scratch blocks one by one" width="100%" style="max-width: 100%;">
+<img src="./reveal-blocks.svg" alt="Revealing Scratch blocks one by one" width="100%" style="max-width: 100%;">
 
 Finally, using this in a deno/fresh project would speed up the scratch tutorial presentation. In stead of a another javascript in the client like reveal.js, a similar presentation could be rendered on the server ahead of time.
